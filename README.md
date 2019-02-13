@@ -1,6 +1,10 @@
 Lognow
 =========
----
+
+
+Logging tool used to log events in JSON formatting
+
+Lognow tool that provides a structured and encapsulated data in JSON format for each event that you specify.  Having this data gathered in your logs can help you easily query a specific event in time and what the nature and outcome was.
 
 Requirements
 ------------
@@ -8,6 +12,7 @@ Requirements
 ### Ruby and Rails
 
 Paperclip now requires Ruby version **>= 2.1** and Rails version **>= 4.2**
+
 
 ---
 
@@ -68,5 +73,4 @@ From here, you can now utilize Lognow anywhere in your code. Below provides an e
 License
 -------
 
-Lognow is Copyright © 2019.  It is free software, and may be
-redistributed.
+Lognow is free software, and may be redistributed.
