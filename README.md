@@ -24,6 +24,8 @@ You can store this directly in your `/lib` folder and ensure this file is requir
       TYPES = {
         ADD_BOOK: 'Add User',
         DELETE_BOOK: 'Delete Book,
+        ADD_USER: 'Add User',
+        REMOVE_USER: 'Remove User',
         SEND_EMAIL: 'Send Email
       }
     end
